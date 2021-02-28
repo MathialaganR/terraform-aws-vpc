@@ -28,11 +28,8 @@ These types of resources are supported:
 
 
 
-<a href="https://cloudcraft.co/?utm_source=terraform-aws-vpc" target="_blank"><img src="https://raw.githubusercontent.com/antonbabenko/modules.tf-lambda/master/misc/cloudcraft-logo.png" alt="Cloudcraft - the best way to draw AWS diagrams" width="211" height="56" /></a>
-
 ## Terraform versions
 
-For Terraform 0.12 use version `v2.*` of this module.
 
 If you are using Terraform 0.11 you can use versions `v1.*`.
 
